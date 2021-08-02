@@ -1,0 +1,9 @@
+https://www.w3web.net/retrieving-data-in-lwc-from-wire-decorators/
+https://www.forcetalks.com/blog/how-to-use-wrapper-class-in-salesforce-lightning-component/
+https://salesforcediaries.com/2019/12/12/constructor-in-lightning-web-component/
+https://salesforce.fun/blogs/
+
+
+
+(FOR QUICK ACTION)
+https://niksdeveloper.com/salesforce/quick-action-using-lwc-with-example/

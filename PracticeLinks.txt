@@ -2,7 +2,7 @@ https://www.w3web.net/retrieving-data-in-lwc-from-wire-decorators/
 https://www.forcetalks.com/blog/how-to-use-wrapper-class-in-salesforce-lightning-component/
 https://salesforcediaries.com/2019/12/12/constructor-in-lightning-web-component/
 https://salesforce.fun/blogs/
-
+https://www.salesforcepoint.com/2020/07/redirect-to-record-page-in-lwc-code.html
 
 
 (FOR QUICK ACTION)
